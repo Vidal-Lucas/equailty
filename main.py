@@ -14,6 +14,7 @@ def main():
     saludo(nombre)
     entero1 = 4
     tabla10(entero1) 
+    tabla10_version2(entero1)
     palabra = 212
     print(palindromo(palabra))
 
