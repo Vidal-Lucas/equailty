@@ -31,3 +31,6 @@ def tabla10_version2(entero:int):
         tabla10(num)
         num = input_int()
     return
+
+#funciona. Faltaria crear una clase que incluya todas estas funciones dentro de ella ya que en 
+#el enunciado se solicita un metodo
